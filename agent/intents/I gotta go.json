@@ -1,0 +1,28 @@
+{
+  "id": "8f982234-670f-4464-ba69-d2ef7a8238bd",
+  "name": "I gotta go",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bye. Hope you have a great day. :smile:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514536968,
+  "fallbackIntent": false,
+  "events": []
+}

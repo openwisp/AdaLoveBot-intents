@@ -1,0 +1,36 @@
+{
+  "id": "f410109d-30cd-46ca-875d-347bde9c009a",
+  "parentId": "531f7521-e627-4497-ae0d-ed52951ae285",
+  "rootParentId": "531f7521-e627-4497-ae0d-ed52951ae285",
+  "name": "Mentor seeker - yes",
+  "auto": true,
+  "contexts": [
+    "Mentorseeker-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mentorseeker.Mentorseeker-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "What would you like to know about?",
+            "What kind of help do you want?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

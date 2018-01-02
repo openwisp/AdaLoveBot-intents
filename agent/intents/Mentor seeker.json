@@ -1,0 +1,37 @@
+{
+  "id": "531f7521-e627-4497-ae0d-ed52951ae285",
+  "name": "Mentor seeker",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Mentorseeker-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am sorry but anyone doesn\u0027t seem to be online. Are you a newcomer?",
+            "There are no mentors at the moment. Are you a newcomer?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514521278,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "674f3b1a-ee09-4220-a4d3-27a573023874",
+  "name": "contribution",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you want to contribute to OpenWISP, announce your intentions on the mailing list and use github to:\n* fork the application you wish to contribute to;\n* add new code respecting as much as possible the code style and formatting conventions used. If you wish to modify existing code please try to isolate as much as possible your modification;\n* send us a pull request."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514873331,
+  "fallbackIntent": false,
+  "events": []
+}

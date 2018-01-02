@@ -1,0 +1,33 @@
+{
+  "id": "27a2c9a8-14f1-4836-99c2-9ddb2056b2df",
+  "parentId": "531f7521-e627-4497-ae0d-ed52951ae285",
+  "rootParentId": "531f7521-e627-4497-ae0d-ed52951ae285",
+  "name": "Mentor seeker - no",
+  "auto": true,
+  "contexts": [
+    "Mentorseeker-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mentorseeker.Mentorseeker-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is nice to see you again."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

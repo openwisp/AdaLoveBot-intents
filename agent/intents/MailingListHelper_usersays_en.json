@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ff78062f-152a-4be7-8c03-903d7de10ef7",
+    "data": [
+      {
+        "text": "@spideythebot where is mailing list?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bfa6fc9-64c9-4baa-9332-5cd63deb5afb",
+    "data": [
+      {
+        "text": "@spideythebot Mailing list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6a3b8cf-c9ed-4949-90fc-d5beefe3551b",
+    "data": [
+      {
+        "text": "@spideythebot Tell me about mailing lists",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

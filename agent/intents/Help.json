@@ -1,0 +1,31 @@
+{
+  "id": "1a616356-ab3e-4a48-97a6-1a81c5370a1c",
+  "name": "Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I can tell about OpenWISP. You should know about that.",
+            "I can support you with mailing lists."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514531758,
+  "fallbackIntent": false,
+  "events": []
+}

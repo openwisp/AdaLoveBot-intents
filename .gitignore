@@ -1,0 +1,3 @@
+./bot/node_modules
+./bot/.env
+./bot/npm-debug.log

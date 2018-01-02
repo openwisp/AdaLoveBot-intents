@@ -1,0 +1,33 @@
+{
+  "id": "19e49597-155b-4718-8c8c-b69eb37a9994",
+  "parentId": "41028d6d-31e4-4d25-ad04-a321c78e232f",
+  "rootParentId": "41028d6d-31e4-4d25-ad04-a321c78e232f",
+  "name": "HelpExp - yes",
+  "auto": true,
+  "contexts": [
+    "HelpExp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpExp.HelpExp-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If there is any bug you want to address, I am not that developed. You can ask me about the mailing list and `other things in development`."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

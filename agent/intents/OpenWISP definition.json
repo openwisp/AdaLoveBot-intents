@@ -1,0 +1,28 @@
+{
+  "id": "9e3dae30-6024-4535-a56d-443c6dc42298",
+  "name": "OpenWISP definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OpenWISP is a set of software tools designed for better internet control."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514521566,
+  "fallbackIntent": false,
+  "events": []
+}

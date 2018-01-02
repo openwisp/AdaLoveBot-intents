@@ -1,0 +1,28 @@
+{
+  "id": "3ac933d9-63c9-4669-be57-30f6121186f8",
+  "name": "MailingListHelper",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can join the mailing list of OpenWISP by going to https://groups.google.com/d/forum/openwisp/join"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514521466,
+  "fallbackIntent": false,
+  "events": []
+}

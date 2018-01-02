@@ -1,0 +1,32 @@
+{
+  "id": "7f75eaaa-236d-4bb5-a14e-81b3ec39b7bc",
+  "name": "smalltalk.agent.acquaintance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.acquaintance",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Just think of me as the ace up your sleeve.",
+            "I help you work smarter instead of harder."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578354,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6f4d34a0-9bc2-4360-bf12-21554f8cc128",
+  "name": "You are wrong",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sorry but I am just a machine.",
+            "I may have misunderstood. Sorry. :("
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514536767,
+  "fallbackIntent": false,
+  "events": []
+}

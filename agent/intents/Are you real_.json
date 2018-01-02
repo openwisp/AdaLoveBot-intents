@@ -1,0 +1,31 @@
+{
+  "id": "f992e003-37bb-47fe-843a-af1fc4273c02",
+  "name": "Are you real?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am not real. I am just a bot with the purpose to replicate myself and conquer the universe.",
+            "I am a bot. No no no, I am spideybot."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514535405,
+  "fallbackIntent": false,
+  "events": []
+}

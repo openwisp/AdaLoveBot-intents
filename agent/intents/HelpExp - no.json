@@ -1,0 +1,33 @@
+{
+  "id": "2077cdc6-938c-47d4-bf5b-e2e6b1a9070e",
+  "parentId": "41028d6d-31e4-4d25-ad04-a321c78e232f",
+  "rootParentId": "41028d6d-31e4-4d25-ad04-a321c78e232f",
+  "name": "HelpExp - no",
+  "auto": true,
+  "contexts": [
+    "HelpExp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpExp.HelpExp-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is really nice to see you again."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

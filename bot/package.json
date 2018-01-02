@@ -1,0 +1,25 @@
+{ 
+  "name": "spidey-the-bot", 
+  "version": "0.0.5", 
+  "description": "Gitter bot with attitude", 
+  "main": "index.js", 
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  }, 
+  "repository": { 
+    "type": "git", 
+    "url": "git+https://github.com/brainbuzzer/spidey-the-bot.git" 
+  }, 
+  "author": "Aditya Giri", 
+  "license": "MIT", 
+  "bugs": { 
+    "url": "https://github.com/brainbuzzer/spidey-the-bot/issues" 
+  }, 
+  "homepage": "https://github.com/brainbuzzer/spidey-the-bot#readme", 
+  "dependencies": { 
+    "apiai": "^4.0.3", 
+    "axios": "^0.17.1", 
+    "https": "^1.0.0", 
+    "moment": "^2.20.1" 
+  } 
+}

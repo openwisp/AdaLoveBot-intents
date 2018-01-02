@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7871a8f9-d280-42e9-a20d-9567f99dd263",
+    "data": [
+      {
+        "text": "@spideythebot Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38d77404-7213-48eb-ac59-14477765c016",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " gotta go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514536968
+  },
+  {
+    "id": "f83e124f-d084-41f4-b916-4161a9cfa2ca",
+    "data": [
+      {
+        "text": "I have to go now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514536968
+  },
+  {
+    "id": "c06b60b7-ee01-46ce-83a2-b88c3729167c",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1514536968
+  }
+]
