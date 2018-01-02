@@ -54,17 +54,15 @@ function fun() {
     for(; a >= data.length-6; a--) {
       var isUnread = ( data[a].unread==true );
       var sentBy = data[a].fromUser.username;
-      if(sentBy !== "spideythebot" && data[a].text.includes('@spideythebot') && isUnread) {
+      if(sentBy !== "adalovebot" && (data[a].text.includes('@AdaLoveBot') || data[a].text.includes('@adalovebot')) && isUnread) {
         var request = app.textRequest(data[a].text, {
           sessionId: 'Session'
         });
         request.on('response', function(response) {
-          reply('@' + data[a].fromUser.username + ' ' + response.result.fulfillment.speech);
+          reply(response.result.fulfillment.speech);
         });
         request.end();
         markAsRead(data[a].id);
-      } else {
-        console.log(a)
       }
     }
   })
