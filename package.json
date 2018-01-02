@@ -4,7 +4,8 @@
   "description": "Gitter bot with attitude", 
   "main": "index.js", 
   "scripts": { 
-    "test": "echo \"Error: no test specified\" && exit 1" 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   }, 
   "repository": { 
     "type": "git", 
@@ -14,12 +15,13 @@
   "license": "MIT", 
   "bugs": { 
     "url": "https://github.com/brainbuzzer/spidey-the-bot/issues" 
-  }, 
+  },
   "homepage": "https://github.com/brainbuzzer/spidey-the-bot#readme", 
   "dependencies": { 
     "apiai": "^4.0.3", 
     "axios": "^0.17.1", 
     "https": "^1.0.0", 
-    "moment": "^2.20.1" 
-  } 
+    "moment": "^2.20.1" ,
+    "dotenv": "^4.0.0"
+  }
 }
