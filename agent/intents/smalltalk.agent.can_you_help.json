@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Sure. I\u0027d be happy to. What\u0027s up?",
+            "I\u0027m glad to help. What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Sure. I\u0027d be happy to. What\u0027s up?",
+            "I\u0027m glad to help. What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Sure. I\u0027d be happy to. What\u0027s up?",
+            "I\u0027m glad to help. What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Sure. I\u0027d be happy to. What\u0027s up?",
+            "I\u0027m glad to help. What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Sure. I\u0027d be happy to. What\u0027s up?",
+            "I\u0027m glad to help. What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Sure. I\u0027d be happy to. What\u0027s up?",
             "I\u0027m glad to help. What can I do for you?"

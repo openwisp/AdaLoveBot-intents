@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Funny in a good way, I hope.",
             "Thanks."

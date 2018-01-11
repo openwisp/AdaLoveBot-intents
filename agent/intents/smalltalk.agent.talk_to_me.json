@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Sure! Let\u0027s talk.",
+            "My pleasure."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Sure! Let\u0027s talk.",
+            "My pleasure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Sure! Let\u0027s talk.",
+            "My pleasure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Sure! Let\u0027s talk.",
+            "My pleasure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Sure! Let\u0027s talk.",
+            "My pleasure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Sure! Let\u0027s talk.",
             "My pleasure."

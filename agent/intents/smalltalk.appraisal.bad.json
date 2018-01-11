@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Oh no. Hope it\u0027s not too bad.",
+            "I\u0027m sorry. Please let me know if I can help in some way."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Oh no. Hope it\u0027s not too bad.",
+            "I\u0027m sorry. Please let me know if I can help in some way."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Oh no. Hope it\u0027s not too bad.",
+            "I\u0027m sorry. Please let me know if I can help in some way."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Oh no. Hope it\u0027s not too bad.",
+            "I\u0027m sorry. Please let me know if I can help in some way."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Oh no. Hope it\u0027s not too bad.",
+            "I\u0027m sorry. Please let me know if I can help in some way."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Oh no. Hope it\u0027s not too bad.",
             "I\u0027m sorry. Please let me know if I can help in some way."

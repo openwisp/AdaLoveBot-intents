@@ -20,7 +20,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
             "Age is just a number. You\u0027re only as old as you feel."

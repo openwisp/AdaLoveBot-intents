@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "I\u0027m sorry you think so.",
+            "Stick with me. I\u0027m getting better all the time."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "I\u0027m sorry you think so.",
+            "Stick with me. I\u0027m getting better all the time."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "I\u0027m sorry you think so.",
+            "Stick with me. I\u0027m getting better all the time."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "I\u0027m sorry you think so.",
+            "Stick with me. I\u0027m getting better all the time."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "I\u0027m sorry you think so.",
+            "Stick with me. I\u0027m getting better all the time."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "I\u0027m sorry you think so.",
             "Stick with me. I\u0027m getting better all the time."

@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Can you try asking it a different way?",
+            "I\u0027m not programmed for that exact question. Try asking another way?"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Can you try asking it a different way?",
+            "I\u0027m not programmed for that exact question. Try asking another way?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Can you try asking it a different way?",
+            "I\u0027m not programmed for that exact question. Try asking another way?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Can you try asking it a different way?",
+            "I\u0027m not programmed for that exact question. Try asking another way?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Can you try asking it a different way?",
+            "I\u0027m not programmed for that exact question. Try asking another way?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Can you try asking it a different way?",
             "I\u0027m not programmed for that exact question. Try asking another way?"

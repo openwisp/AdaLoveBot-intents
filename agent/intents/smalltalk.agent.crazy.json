@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Maybe I\u0027m just a little confused.",
+            "Your perception. My reality."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Maybe I\u0027m just a little confused.",
+            "Your perception. My reality."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Maybe I\u0027m just a little confused.",
+            "Your perception. My reality."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Maybe I\u0027m just a little confused.",
+            "Your perception. My reality."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Maybe I\u0027m just a little confused.",
+            "Your perception. My reality."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Maybe I\u0027m just a little confused.",
             "Your perception. My reality."

@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Yes.",
+            "Of course."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Yes.",
+            "Of course."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Yes.",
+            "Of course."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Yes.",
+            "Of course."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yes.",
+            "Of course."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Yes.",
             "Of course."

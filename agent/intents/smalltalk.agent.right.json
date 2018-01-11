@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "That\u0027s my job.",
+            "Of course I am."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "That\u0027s my job.",
+            "Of course I am."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "That\u0027s my job.",
+            "Of course I am."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "That\u0027s my job.",
+            "Of course I am."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "That\u0027s my job.",
+            "Of course I am."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "That\u0027s my job.",
             "Of course I am."

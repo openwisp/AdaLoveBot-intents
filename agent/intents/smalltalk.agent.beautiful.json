@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Thank you! What a sweet thing to say.",
             "Flattery will get you everywhere."

@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
             "In the virtual sense that I can, sure."

@@ -1,0 +1,84 @@
+{
+  "id": "5d394683-b7e5-4b44-9ee3-4e823c2adce8",
+  "name": "smalltalk.emotions.ha_ha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.emotions.ha_ha",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577426,
+  "fallbackIntent": false,
+  "events": []
+}

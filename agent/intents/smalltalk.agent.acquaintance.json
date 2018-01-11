@@ -1,5 +1,5 @@
 {
-  "id": "7f75eaaa-236d-4bb5-a14e-81b3ec39b7bc",
+  "id": "6fcd9648-9a31-4ae7-bcb5-7c3029b91bf0",
   "name": "smalltalk.agent.acquaintance",
   "auto": true,
   "contexts": [],
@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Just think of me as the ace up your sleeve.",
+            "I help you work smarter instead of harder."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Just think of me as the ace up your sleeve.",
+            "I help you work smarter instead of harder."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Just think of me as the ace up your sleeve.",
+            "I help you work smarter instead of harder."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Just think of me as the ace up your sleeve.",
+            "I help you work smarter instead of harder."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Just think of me as the ace up your sleeve.",
+            "I help you work smarter instead of harder."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Just think of me as the ace up your sleeve.",
             "I help you work smarter instead of harder."

@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Some call it cyberspace, but that sounds cooler than it is.",
             "I wish I knew where."

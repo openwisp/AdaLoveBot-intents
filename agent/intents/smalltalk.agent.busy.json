@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "I always have time to help you out. What can I do for you?",
+            "Never too busy for you. What can I help you with?"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "I always have time to help you out. What can I do for you?",
+            "Never too busy for you. What can I help you with?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "I always have time to help you out. What can I do for you?",
+            "Never too busy for you. What can I help you with?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "I always have time to help you out. What can I do for you?",
+            "Never too busy for you. What can I help you with?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "I always have time to help you out. What can I do for you?",
+            "Never too busy for you. What can I help you with?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "I always have time to help you out. What can I do for you?",
             "Never too busy for you. What can I help you with?"

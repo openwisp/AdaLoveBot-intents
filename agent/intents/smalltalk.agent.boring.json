@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "You know, conversation is two-sided.",
             "I\u0027m sorry you think so. We can talk about something more interesting."

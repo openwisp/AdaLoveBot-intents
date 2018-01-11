@@ -12,7 +12,32 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": "Sorry to come across that way."
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": "Sorry to come across that way."
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": "Sorry to come across that way."
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": "Sorry to come across that way."
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Sorry to come across that way."
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": "Sorry to come across that way."
         }
       ],

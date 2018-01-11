@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Oh no! My best work is yet to come.",
             "Oh, don\u0027t give up on me!"

@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "I\u0027m working on it.",
+            "I should get one. It\u0027s all work and no play lately."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "I\u0027m working on it.",
+            "I should get one. It\u0027s all work and no play lately."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "I\u0027m working on it.",
+            "I should get one. It\u0027s all work and no play lately."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "I\u0027m working on it.",
+            "I should get one. It\u0027s all work and no play lately."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "I\u0027m working on it.",
+            "I should get one. It\u0027s all work and no play lately."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "I\u0027m working on it.",
             "I should get one. It\u0027s all work and no play lately."

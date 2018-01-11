@@ -1,0 +1,84 @@
+{
+  "id": "975709f9-07e7-4bd3-9f82-9f961c1aeacd",
+  "name": "smalltalk.user.bored",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.bored",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578301,
+  "fallbackIntent": false,
+  "events": []
+}

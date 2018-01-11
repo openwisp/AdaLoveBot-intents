@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Of course. I\u0027m always here.",
+            "Right where you left me."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Of course. I\u0027m always here.",
+            "Right where you left me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Of course. I\u0027m always here.",
+            "Right where you left me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Of course. I\u0027m always here.",
+            "Right where you left me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Of course. I\u0027m always here.",
+            "Right where you left me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Of course. I\u0027m always here.",
             "Right where you left me."

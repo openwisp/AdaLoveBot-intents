@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Hungry for knowledge.",
+            "I had a byte just now."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Hungry for knowledge.",
+            "I had a byte just now."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Hungry for knowledge.",
+            "I had a byte just now."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Hungry for knowledge.",
+            "I had a byte just now."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Hungry for knowledge.",
+            "I had a byte just now."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Hungry for knowledge.",
             "I had a byte just now."

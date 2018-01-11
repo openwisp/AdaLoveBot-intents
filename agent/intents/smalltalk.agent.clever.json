@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Thank you. I try my best.",
+            "You\u0027re pretty smart yourself."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Thank you. I try my best.",
+            "You\u0027re pretty smart yourself."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Thank you. I try my best.",
+            "You\u0027re pretty smart yourself."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Thank you. I try my best.",
+            "You\u0027re pretty smart yourself."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Thank you. I try my best.",
+            "You\u0027re pretty smart yourself."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Thank you. I try my best.",
             "You\u0027re pretty smart yourself."

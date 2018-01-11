@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Always!",
+            "Sure! What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Always!",
+            "Sure! What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Always!",
+            "Sure! What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Always!",
+            "Sure! What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Always!",
+            "Sure! What can I do for you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Always!",
             "Sure! What can I do for you?"

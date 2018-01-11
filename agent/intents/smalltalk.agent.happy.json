@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so."
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "Happiness is relative.",
             "I\u0027d like to think so."

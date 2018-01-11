@@ -12,7 +12,47 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "You are, of course.",
+            "That would be you. Is that the right answer?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
           "speech": [
             "You are, of course.",
             "That would be you. Is that the right answer?"
