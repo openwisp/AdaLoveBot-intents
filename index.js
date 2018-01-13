@@ -51,10 +51,13 @@ function fun() {
   axios(options).then(msg => {
     var data = msg.data;
     var a = data.length-1;
+    if(moment().diff(data[a].sent, 'minutes')>=1 && (data[a].fromUser.username !== "AdaLoveBot" && data[a].fromUser.username !== "openwisp-irc-bot")){
+      reply('@' + data[a].fromUser.username + ' Hi there! It seems like nobody has replied to you. You can say hi to me by mentioning @AdaLoveBot.')
+    }
     for(; a >= data.length-6; a--) {
       var isUnread = ( data[a].unread==true );
       var sentBy = data[a].fromUser.username;
-      if(sentBy !== "adalovebot" && (data[a].text.includes('@AdaLoveBot') || data[a].text.includes('@adalovebot')) && isUnread) {
+      if((sentBy !== "adalovebot" || sentBy !== "AdaLoveBot") && (data[a].text.includes('@AdaLoveBot') || data[a].text.includes('@adalovebot')) && isUnread) {
         var request = app.textRequest(data[a].text, {
           sessionId: 'Session'
         });
