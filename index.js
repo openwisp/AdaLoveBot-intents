@@ -51,7 +51,7 @@ function fun() {
   axios(options).then(msg => {
     var data = msg.data;
     var a = data.length-1;
-    if(moment().diff(data[a].sent, 'minutes')>=1 && (data[a].fromUser.username !== "AdaLoveBot" && data[a].fromUser.username !== "openwisp-irc-bot")){
+    if(moment().diff(data[a].sent, 'minutes')>=3 && (data[a].fromUser.username !== "AdaLoveBot" && data[a].fromUser.username !== "openwisp-irc-bot")){
       reply('@' + data[a].fromUser.username + ' Hi there! It seems like nobody has replied to you. You can say hi to me by mentioning @AdaLoveBot.')
     }
     for(; a >= data.length-6; a--) {
