@@ -1,6 +1,6 @@
 {
-  "id": "9e3dae30-6024-4535-a56d-443c6dc42298",
-  "name": "OpenWISP definition",
+  "id": "90e5fabd-384e-432a-9adb-51d460493a43",
+  "name": "hwrks",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -12,7 +12,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "OpenWISP is a set of software tools designed for better internet control. Learn More at http://www.openwisp.org/"
+          "speech": "Most openwisp applications work with ansible(http://docs.ansible.com/ansible/latest/intro_getting_started.html), django(https://www.djangoproject.com/), and linux(https://www.linux.org/). With linux as the base operating system, django as the webframework, and ansible to manage and deploy configurations."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -22,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514521566,
+  "lastUpdate": 1515902978,
   "fallbackIntent": false,
   "events": []
 }

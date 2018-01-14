@@ -1,0 +1,29 @@
+{
+  "id": "c2127b21-62ea-4482-9789-8f9ef39a5fea",
+  "name": "commands",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Command List: (Note don\u0027t forget to add @adalovebot before the command)\nType: hwrk Desc: A short explanation on what technologies openwisp uses. \nType: Is there any mentor Desc: Tells you if any mentors are online(in dev)\nType: Mailing List Desc: Directs user to openwisp mailing list.\nType: Define openwisp Desc: Describes openwisp\nType: cont Desc: tell user how to contribute\nType: Doc Desc: gives link to openwisp documentation\nType: Contact Desc: gives list of places to contact and connect with openwisp online presence."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515903513,
+  "fallbackIntent": false,
+  "events": []
+}

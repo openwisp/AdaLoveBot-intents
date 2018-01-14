@@ -1,0 +1,36 @@
+[
+  {
+    "id": "0fe133b4-b8fe-4c06-b0f2-9d692b29efbb",
+    "data": [
+      {
+        "text": "@adalovebot How does this work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "632cc6a5-aef6-41bc-8bfa-0a84e9d3e369",
+    "data": [
+      {
+        "text": "@adalovebot hwrks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7783b36c-c784-4a65-bc86-11197c50bc12",
+    "data": [
+      {
+        "text": "@adalovebot hwrks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515902978
+  }
+]

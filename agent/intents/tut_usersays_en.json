@@ -1,0 +1,36 @@
+[
+  {
+    "id": "871557fa-e962-4cc8-9b75-bd55cd6b8faa",
+    "data": [
+      {
+        "text": "@adalovebot teach me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb3ae5c7-9d6f-4c0d-894c-48ecf19c0dad",
+    "data": [
+      {
+        "text": "@adalovebot tutorial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e47f1709-e21d-4a7d-b9c5-e31bb0dbd8a6",
+    "data": [
+      {
+        "text": "@adalovebot tut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515903885
+  }
+]

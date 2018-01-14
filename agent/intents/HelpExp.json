@@ -18,7 +18,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Hi there. Are you a newcomer?"
+          "speech": "Hi there. Are you a newcomer? Type \"commands\" to see what I can help you with."
         }
       ],
       "defaultResponsePlatforms": {},
