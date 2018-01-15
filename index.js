@@ -4,9 +4,14 @@ var apiai = require('apiai');
 require('dotenv').config()
 
 var app       = apiai(process.env.APIAI_TOKEN);
-var roomId    = process.env.ROOM;
 var token     = process.env.GITTER_TOKEN;
 var userId    = process.env.USER_ID;
+
+if (process.env.DEV === 'true') {
+  var roomId    = process.env.DEV_ROOM;
+} else {
+  var roomId    = process.env.PROD_ROOM;
+}
 
 var options = {
   baseURL:  'https://api.gitter.im/',
