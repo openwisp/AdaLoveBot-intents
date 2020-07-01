@@ -19,7 +19,7 @@
   "homepage": "https://github.com/brainbuzzer/spidey-the-bot#readme", 
   "dependencies": { 
     "apiai": "^4.0.3", 
-    "axios": "^0.17.1", 
+    "axios": "^0.19.2", 
     "https": "^1.0.0", 
     "moment": "^2.20.1" ,
     "dotenv": "^4.0.0"
